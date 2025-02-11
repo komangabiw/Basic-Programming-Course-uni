@@ -1,4 +1,4 @@
-Learning Basic Programming with Java
+# Learning Basic Programming with Java
 
 This repository contains a collection of Java programs I developed while learning basic programming concepts at my university. These projects demonstrate fundamental skills in problem-solving, algorithm implementation, and Java programming syntax.
 
